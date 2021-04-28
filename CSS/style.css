@@ -74,7 +74,7 @@ width: 25%;
 }
 
 .menu.logo img{
-line-height: 80px;
+line-height: 40px;
 padding: 20px;
 }
 
@@ -100,19 +100,44 @@ li{
     
 }
 
-#buttom{
-    border-radius: 10px;
-    padding: 5px 8px;
+
+#buttom1{
+    border-radius: 10px 10px 10px 10px;
+    padding: 8px;
     font-size: 12px;
     border-width: 1px;
     border-style: solid;
-    margin: right;
+    background-color: white;
+    margin-left: 10%;
 }
 
-.buttom-2{
-    background-color:cornsilk;
-    color: black;
+#buttom2{
+    border-radius: 10px 10px 10px 10px;
+    padding: 8px;
+    font-size: 12px;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
 }
+
+#buttom3{
+   
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+    font-size: 12px;
+    border-width: 1px;
+    border-style: solid;
+    background-color: black;
+    color: cornsilk;
+    
+}
+
+
+
+
+
+
+
 
 .content{
         height: 400px;
